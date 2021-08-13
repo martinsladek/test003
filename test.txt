@@ -9,6 +9,7 @@ second edit on main
 8th edit: branch2
 9th edit: main
 9th edit: branch2 - will cause conflict
+10th edit: main
 10th edit: main - want to cause conflict for branch2
 ***
 11th branch2
